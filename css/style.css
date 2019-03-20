@@ -8,7 +8,7 @@
 body {
 	font: 1em/1.5 'Open Sans', sans-serif;
 	color: #373737;
-	background: black;
+	background: #000000;
 	margin: 0;
 }
 a {
@@ -17,7 +17,7 @@ a {
 h1,
 h2,
 h3 {
-	text-transform: uppercase;
+	text-transform:;
 }
 h2 {
 	font-size: 2em;
